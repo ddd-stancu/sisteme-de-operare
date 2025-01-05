@@ -1,6 +1,6 @@
 # Proiect Sisteme de Operare pentru PC
 
-Acesta este un proiect realizat în scop educațional, prezentând diverse sisteme de operare pentru PC, precum Windows 10, Windows 11, Linux (Ubuntu și Kali Linux) și macOS. Proiectul a fost creat utilizând Next.js și Tailwind CSS.
+Acesta este un proiect realizat în scop educațional, prezentând diverse sisteme de operare pentru PC, precum Windows 11. Proiectul a fost creat utilizând Next.js și Tailwind CSS.
 
 ## Tehnologii utilizate
 
