@@ -27,7 +27,7 @@ export default function Home() {
           <div className="grid grid-cols-1 md:grid-cols-1 gap-6 mt-6 max-w-5xl mx-auto">
             <div className="text-center">
               <Image
-                src="/images/windows.webp"
+                src="https://raw.githubusercontent.com/ddd-stancu/sisteme-de-operare/main/public/images/windows.webp"
                 alt="Windows 10"
                 width={300}
                 height={200}
@@ -45,7 +45,7 @@ export default function Home() {
           <div className="grid grid-cols-1 md:grid-cols-1 gap-6 mt-6 max-w-5xl mx-auto">
             <div className="text-center">
               <Image
-                src="/images/windows11.png"
+                src="https://raw.githubusercontent.com/ddd-stancu/sisteme-de-operare/main/public/images/windows11.png"
                 alt="Windows 11"
                 width={300}
                 height={200}
@@ -66,7 +66,7 @@ export default function Home() {
             <div className="text-center">
               <h3 className="text-xl font-medium">Ubuntu</h3>
               <Image
-                src="/images/ubuntu.png"
+                src="https://raw.githubusercontent.com/ddd-stancu/sisteme-de-operare/main/public/images/ubuntu.png"
                 alt="Ubuntu"
                 width={300}
                 height={200}
@@ -76,7 +76,7 @@ export default function Home() {
             <div className="text-center">
               <h3 className="text-xl font-medium">Kali Linux</h3>
               <Image
-                src="/images/kali.png"
+                src="https://raw.githubusercontent.com/ddd-stancu/sisteme-de-operare/main/public/images/kali.png"
                 alt="Kali Linux"
                 width={300}
                 height={200}
@@ -97,7 +97,7 @@ export default function Home() {
           <div className="grid grid-cols-1 md:grid-cols-1 gap-6 mt-6 max-w-5xl mx-auto">
             <div className="text-center">
               <Image
-                src="/images/macos.jpg"
+                src="https://raw.githubusercontent.com/ddd-stancu/sisteme-de-operare/main/public/images/macos.jpg"
                 alt="MacOS"
                 width={300}
                 height={200}
@@ -116,7 +116,7 @@ export default function Home() {
           <div className="grid grid-cols-1 md:grid-cols-1 gap-6 mt-6 max-w-5xl mx-auto">
             <div className="text-center">
               <Image
-                src="/images/chromeos.webp"
+                src="https://raw.githubusercontent.com/ddd-stancu/sisteme-de-operare/main/public/images/chromeos.webp"
                 alt="ChromeOS"
                 width={300}
                 height={200}

@@ -1,9 +1,21 @@
 import type { NextConfig } from "next";
 
-const nextConfig: NextConfig = {
-  devIndicators: {
-    appIsrStatus: false,
+
+
+module.exports = {
+    devIndicators: {
+      buildActivity: false,  
+      autoPrerender: false,  
+      appIsrStatus: false,   
+    },
+  images: {
+    remotePatterns: [
+      {
+        protocol: 'https',
+        hostname: 'raw.githubusercontent.com',
+        pathname: '/**/public/images/**',
+      },
+    ],
   },
 };
 
-export default nextConfig;
