@@ -20,4 +20,4 @@ Acesta este un proiect realizat în scop educațional, prezentând diverse siste
 4. Accesează aplicația în browser pe http://localhost:3000.
 
 # Bibliografie
-Wikipedia: Informațiile din acest proiect au fost inspirate din diverse surse, inclusiv Wikipedia.
+Wikipedia: Informațiile din acest proiect au fost procurate de pe Wikipedia.
